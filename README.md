@@ -161,6 +161,7 @@ Here are a few of the results I've acquired in my testing (sorted by efficiency,
 | [Ampere Altra Developer Platform (M96-28)](https://github.com/geerlingguy/top500-benchmark/issues/10) | Arm | 1,188.3 Gflops | 295W | 4.01 Gflops/W |
 | [Mac Studio (M1 Max, in Docker)](https://github.com/geerlingguy/top500-benchmark/issues/4) | Arm | 264.32 Gflops | 66W | 4.00 Gflops/W |
 | [System76 Thelio Astra (Ampere Altra Max M128-30)](https://github.com/geerlingguy/top500-benchmark/issues/44) | Arm | 1,652.4 Gflops | 440W | 3.76 Gflops/W |
+| [Radxa Dragon Q8B (Qualcomm Snapdragon 8cx Gen 3)](https://github.com/geerlingguy/top500-benchmark/issues/82) | Arm | 123.05 Gflops | 33W | 3.73 Gflops/W |
 | [Minisforum MS-R1 (CIX P1 CD8180)](https://github.com/geerlingguy/top500-benchmark/issues/82) | Arm | 143.03 Gflops | 39W | 3.67 Gflops/W |
 | [Raspberry Pi CM5 (BCM2712)](https://github.com/geerlingguy/top500-benchmark/issues/48) | Arm | 32.152 Gflops | 9.2W | 3.49 Gflops/W |
 | [Radxa Orion O6 (CIX P1 CD8180)](https://github.com/geerlingguy/top500-benchmark/issues/54) | Arm | 124.42 Gflops | 35.7W | 3.49 Gflops/W |
